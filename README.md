@@ -21,4 +21,5 @@ Aplikasi ini memungkinkan pengguna untuk mengelola daftar buku mereka dengan fit
   Semua data buku disimpan secara permanen di peramban pengguna menggunakan `localStorage`, sehingga data tetap tersedia meskipun halaman dimuat ulang.  
 
 ## Demoo
+[Link Demo](https://bookshelf-app-omega-six.vercel.app/)
 
